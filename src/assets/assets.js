@@ -56,9 +56,13 @@ import pimg44 from "./pimg44.jpeg";
 import pimg45 from "./pimg45.jpeg";
 import search from "./search.png";
 import profile_icon from "./profile_icon.png";
+import qualityicon from "./quality-icon.png";
+import customersupporti from "./customersupport-icon.png";
 
 const assets = {
   logo,
+  qualityicon,
+  customersupporti,
   menu,
   arrow,
   aboutimg,
